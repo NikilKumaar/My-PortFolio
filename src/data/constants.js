@@ -225,7 +225,7 @@ export const projects = [
     title: "Todo App",
     date: "June 2024",
     description:
-      "A To-Do Full Stack MERN App is a task management application built using MongoDB, Express.js, React, and Node.js. It allows users to add, edit, delete, and mark tasks as completed. The app features a React-based front-end and a Node.js/Express back-end with MongoDB for data storage.",
+      "A To-Do Full Stack MERN App is a task management application built using MongoDB, Express.js, React, and Node.js. It allows users to add, edit and delete. The app features a React-based front-end and a Node.js/Express back-end with MongoDB for data storage.",
     image:
       "https://github.com/NikilKumaar/todo-frontend/blob/master/public/TodoApp.png",
     tags: [
