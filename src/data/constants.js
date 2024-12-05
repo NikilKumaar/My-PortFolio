@@ -190,38 +190,38 @@ export const projects = [
     github: "https://github.com/NikilKumaar/Diary-App---FrontEnd",
     webapp: "https://diaryapp-fe.netlify.app/",
   },
-  // {
-  //   id: 2,
-  //   title: "Inventory Management and Billing",
-  //   date: "July 2024",
-  //   description:
-  //     "Our inventory management and billing app leverages the power of the MERN stack to provide businesses with a robust solution for tracking inventory, managing stock levels, and generating invoices seamlessly. Whether you operate a retail store, warehouse, or e-commerce platform, our app offers comprehensive features to streamline your operations and enhance efficiency.",
-  //   image:
-  //     "https://github.com/NikilKumaar/Inventory-Management-and-Billing---Frontend/raw/main/public/IMBA.png",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDB",
-  //     "Node Js",
-  //     "Express Js",
-  //     "sweetalert2",
-  //     "Razorpay",
-  //     "daisy UI",
-  //     "easy-invoice",
-  //     "bcryptjs",
-  //     "node js",
-  //     "cors",
-  //     "dotenv",
-  //     "JWT",
-  //     "Formik-Yup",
-  //     "Nodemailer",
-  //   ],
-  //   category: "web app",
-  //   github:
-  //     "https://github.com/NikilKumaar/Inventory-Management-and-Billing---Frontend",
-  //   webapp: "https://inventorymanagementandbilling.netlify.app/",
-  // },
   {
     id: 2,
+    title: "Inventory Management and Billing",
+    date: "July 2024",
+    description:
+      "Our inventory management and billing app leverages the power of the MERN stack to provide businesses with a robust solution for tracking inventory, managing stock levels, and generating invoices seamlessly. Whether you operate a retail store, warehouse, or e-commerce platform, our app offers comprehensive features to streamline your operations and enhance efficiency.",
+    image:
+      "https://github.com/NikilKumaar/Inventory-Management-and-Billing---Frontend/raw/main/public/IMBA.png",
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Node Js",
+      "Express Js",
+      "sweetalert2",
+      "Razorpay",
+      "daisy UI",
+      "easy-invoice",
+      "bcryptjs",
+      "node js",
+      "cors",
+      "dotenv",
+      "JWT",
+      "Formik-Yup",
+      "Nodemailer",
+    ],
+    category: "web app",
+    github:
+      "https://github.com/NikilKumaar/Inventory-Management-and-Billing---Frontend",
+    webapp: "https://inventorymanagementandbilling.netlify.app/",
+  },
+  {
+    id: 3,
     title: "Todo App",
     date: "June 2024",
     description:
@@ -243,7 +243,7 @@ export const projects = [
     webapp: "https://todo-frontendapp.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Travel Planner App",
     date: "May 2024",
     description:
@@ -270,7 +270,7 @@ export const projects = [
     webapp: "https://mern-travel-tourism-app.onrender.com/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Zen Class Student Dashboard",
     date: "July 2024",
     description:
